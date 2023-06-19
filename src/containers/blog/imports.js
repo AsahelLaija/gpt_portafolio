@@ -1,13 +1,13 @@
 import blog01 from '../../assets/blog01.png';
-import blog02 from '../../assets/blog02.png';
-import blog03 from '../../assets/blog03.png';
-import blog04 from '../../assets/blog04.png';
-import blog05 from '../../assets/blog05.png';
+import gptForFree from '../../assets/GPTForFree.png';
+import chatGPT from  '../../assets/ChatGPT.jpg';
+import gpt4 from '../../assets/GPT-4.gif'
+import aiapps from '../../assets/AIapps.jpg'
 
 export {
   blog01,
-  blog02,
-  blog03,
-  blog04,
-  blog05,
+  gptForFree,
+  chatGPT,
+  gpt4,
+  aiapps
 };
